@@ -1,2 +1,2 @@
-# BugRporting
+# Bug Reporting
 Weaponized Information
